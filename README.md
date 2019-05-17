@@ -10,4 +10,5 @@ ppt主要包括本人研一期间使用kaldi语音识别工具构建`GMM-HMM`、
 下面这幅图片是自己对于深度学习近期的网络进行总结，可以用本人在github开源仓库中的两个项目实现<br>
 [(1)ASR_Syllable](https://github.com/zw76859420/ASR_Syllable "悬停显示"):以音节为建模单元构建语音识别声学模型<br>
 [(2)ASR_WORD](https://github.com/zw76859420/ASR_WORD "悬停显示")以字为建模单元构建语音识别声学模型<br>
+[(3)ASR_Phone](https://github.com/zw76859420/ASR_Phone "悬停显示")以字为建模单元构建语音识别声学模型<br>
 ![深度学习模型汇总](https://github.com/zw76859420/ASR_Theory/blob/master/nn.png)
